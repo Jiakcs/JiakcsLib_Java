@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="V:/工作SVN共享/SVN代码库/Global_JAR/trunk/JiakcsLib/fastjson-1.1.41.jar"/>
+	<classpathentry kind="lib" path="V:/工作SVN共享/SVN代码库/Global_JAR/trunk/JiakcsLib/mysql-connector-java-5.1.37-bin.jar"/>
+	<classpathentry kind="lib" path="V:/工作SVN共享/SVN代码库/Global_JAR/trunk/JiakcsLib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="V:/工作SVN共享/SVN代码库/Global_JAR/trunk/JiakcsLib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="V:/工作SVN共享/SVN代码库/Global_JAR/trunk/JiakcsLib/commons-codec-1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
